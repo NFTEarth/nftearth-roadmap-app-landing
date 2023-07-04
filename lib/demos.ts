@@ -6,12 +6,12 @@ export type Item = {
 
 export const demos: { name: string; items: Item[] }[] = [
   {
-    name: 'Layouts',
+    name: 'NFTEarth Stakers',
     items: [
       {
-        name: 'Nested Layouts',
+        name: 'NFTEarth Stakers',
         slug: 'layouts',
-        description: 'Create UI that is shared across routes',
+        description: 'For stakeholder of NFTEarth',
       },
       {
         name: 'Grouped Layouts',
