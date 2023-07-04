@@ -1,32 +1,12 @@
-# Next.js App Router Playground
+# DAO TODO LIST
 
-Next.js recently introduced the App Router with support for:
+1. Relaunch BPT for ve8020 locking mechanism, with updated configurations to still be permanently yield-bearing, but not inclusive of another CSP-BPT. 80NFTE/20rETH to be used for obtaining veNFTE which will be the primary focus of all platform stakeholders. The NFTFi and LSDFi Vaults will distribute revenue to lockers pro-rata their share of veNFTE - dynamic, vote-escrowed 80/20 LP. 
 
-- **Layouts:** Easily share UI while preserving state and avoiding re-renders.
-- **Server Components:** Making server-first the default for the most dynamic applications.
-- **Streaming:** Display instant loading states and stream in updates.
-- **Suspense for Data Fetching:** `async`/`await` support and the `use` hook for component-level fetching.
 
-The App Router can coexist with the existing `pages` directory for incremental adoption. While you **don't need to use the App Router** when upgrading to Next.js 13, we're laying the foundations to build complex interfaces while shipping less JavaScript.
+BPT ICON: 
 
-## Running Locally
 
-1. Install dependencies:
+![B-80NFTE-20rETH_Icon](https://github.com/NFTEarth/nftearth-roadmap-app-landing/assets/29180454/44cb63ca-1577-49ca-b163-d1ee6a68b37a)
 
-```sh
-pnpm install
-```
 
-2. Start the dev server:
-
-```sh
-pnpm dev
-```
-
-## Documentation
-
-https://nextjs.org/docs
-
-## Leave Feedback
-
-https://github.com/vercel/next.js/discussions/41745
+2. Deploy LSD Vault #1.
